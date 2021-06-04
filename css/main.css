@@ -83,3 +83,10 @@ a {
   color: white;
   text-decoration: none; /* no underline */
 }
+ul {
+    list-style-type:none;
+}
+li span {
+    display:inline-block;
+    width:100px;
+}
