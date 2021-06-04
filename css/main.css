@@ -87,3 +87,15 @@ a {
     display: inline-block;
     width: 100px; 
 }
+.title1 {
+    text-align: left;
+    color: #ffffff;
+    margin-top: 0px;
+    float: left;
+    clear: both;
+  }
+  
+  .title2 {
+    text-align: left;
+    color: #885ee9;
+  }
