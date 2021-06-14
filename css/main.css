@@ -99,3 +99,12 @@ a {
     text-align: left;
     color: #885ee9;
   }
+
+.table {
+	background-color: #ffffff ;
+	text-align: center;
+}
+
+#tableBody {
+	background-color: #885ee9 ;
+}
