@@ -52,7 +52,7 @@
 .u-section-1 .u-image-1 {
   width: 239px;
   height: 239px;
-  background-image: url("images/66663195.png");
+  background-image: url("/images/66663195.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -231,7 +231,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/AptImpoliteAmericancicada-max-1mb.gif");
+  background-image: url("/images/AptImpoliteAmericancicada-max-1mb.gif");
   background-position: 50% 50%;
 }
 
@@ -332,7 +332,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/original.gif");
+  background-image: url("/images/original.gif");
   background-position: 50% 50%;
   animation-duration: 1000ms;
 }
